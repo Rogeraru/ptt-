@@ -2,7 +2,6 @@
 
 import requests
 import sys
-
 from lxml import etree
 
 url = 'https://tryscrapeme.com/web-scraping-practice/beginner/parse'
